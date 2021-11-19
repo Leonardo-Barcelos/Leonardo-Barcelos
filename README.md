@@ -3,7 +3,6 @@
 - Formado em Analise e Desenvolvimento de Sistemas.
 - Voltando ao mundo da programação.
 
-
 <div>
     <a href="https://github.com/Leonardo-Barcelos">
     <img id="painel-github" alt="Painel que mostra meus status do github" height="180em"
@@ -13,7 +12,6 @@
 </div>
 
 ##
-
 ### Redes Sociais
 <div style="display: inline_block">
     <br>
@@ -28,8 +26,7 @@
 </div>
 
 ##
-
-### Linguagens
+### Skills
 <p> Que domino ou estou aprendendo</p>
 <div style="display: inline_block">
     <br>
