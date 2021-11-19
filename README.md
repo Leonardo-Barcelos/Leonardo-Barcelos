@@ -23,7 +23,7 @@
     </a>
     <a href="https://www.udemy.com/user/leonardo-barcelos-4/" target="_blank">
         <img id="logo-udemy" alt="Imagem logo da plataforma de estudos Udemy" vertical-align="middle" height="60" width="70"
-            src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg">
+            src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg">
     </a>
 </div>
 
